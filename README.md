@@ -22,7 +22,7 @@
 
 - ⚡ Love solving problems and crafting scalable backend systems
 
-- 📫 Reach me at: [pratiush.dev@gmail.com](mailto:pratiush.dev@gmail.com)
+- 📫 Reach me at: pratiusht81300@gmail.com
 
 ---
 
